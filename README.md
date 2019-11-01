@@ -1,4 +1,4 @@
 # testKotlinApp
 creating a new Kotlin app to learn. 
 
-More changes to come
+More changes will be coming soon
